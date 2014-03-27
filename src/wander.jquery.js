@@ -58,7 +58,5 @@
   };
 
   // Static method default options.
-  $.wander.options = {
-    punctuation: '.'
-  };
+  $.wander.options = {};
 }(jQuery));
