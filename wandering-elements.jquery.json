@@ -1,0 +1,28 @@
+{
+  "name": "wandering-elements",
+  "title": "Wandering Elements",
+  "description": "Make random HTML elements wander around the page",
+  "version": "0.0.1",
+  "homepage": "github.com/JoshWillik/jQuery-Wander",
+  "author": {
+    "name": "Josh Vanderwillik",
+    "url": "https://github.com/JoshWillik"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/JoshWillik/jQuery-Wander"
+  },
+  "bugs": "what are those?",
+  "licenses": [
+    {
+      "type": "fun",
+      "url": "http://opensource.org/licenses/fun"
+    }
+  ],
+  "dependencies": {
+    "jquery": "~1.9.0"
+  },
+  "keywords": [
+    "jquery-plugin"
+  ]
+}
